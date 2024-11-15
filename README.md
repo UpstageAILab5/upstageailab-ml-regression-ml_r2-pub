@@ -52,7 +52,25 @@ e.g.
 ### Dataset overview
 
 - _Explain using data_
+Data 전처리
+[기본 환경 설정]
+[데이터 불러오기]
+[Train/Test 구분 및 합치기]
+dt_concat
+[dt_concat 기본 전처리]
 
+컬럼이름 변경 또는 변수 분할
+컬럼 이름 변경
+변수 분할
+계약년월 split : 계약년, 계약월
+시군구 split : 시, 구, 동
+각 벌럼펼 ' ', '-', 0 등 의미없는 값 결측치 처리
+결측치 비율 확인
+피쳐 드랍
+1,000,000 이상 결측치 보유 피쳐 드랍 (dt_concat_select)
+본번, 부번은 str으로 변환
+중복 데이터 제거
+continuous/categorical 변수 구분 [드랍 피쳐 결정
 ### EDA
 
 - _Describe your EDA process and step-by-step conclusion_
