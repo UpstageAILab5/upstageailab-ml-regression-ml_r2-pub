@@ -9,10 +9,10 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- [환경 설정 페이지](https://github.com/UpstageAILab5-Classroom/upstageailab5-ml-regression-ml_r2/blob/main/environment.md)
 
 ### Requirements
-- _Write Requirements_
+- [요구사항 페이지](https://github.com/UpstageAILab5-Classroom/upstageailab5-ml-regression-ml_r2/blob/main/requirements.txt)
 
 ## 1. Competiton Info
 
