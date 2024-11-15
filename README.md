@@ -64,7 +64,14 @@
 
 ### Dataset overview
 
-- _Explain using data_
+- 장소에 관련된 데이터들
+  - 기본 데이터 : 시군구, 번지, 본번, 부번, 아파트명, 도로명, 좌표X, 좌표Y
+  - 외부 데이터 : 위도, 경도, 주소, geometry, 건물명, 주소_amcc, 지번
+- 아파트와 관련된 데이터들
+  - 전용면적, 계약년월, 계약일, 층, 건축년도, 거래유형, k-단지분류, k-세대타입, k-관리방식, k-복도유형, k-난방방식, k-전체동수, k-전체세대수, k-건설사(시공사), k-시행사,k-사용검사일-사용승인일,k-연면적,k-주거전용면적,k-관리비부과면적,k-전용면적별세대현황(60㎡이하),k-전용면적별세대현황(60㎡~85㎡이하),k-85㎡~135㎡이하,k-135㎡초과, 건축면적, 주차대수, 기타/의무/임대/임의=1/2/3/4 등
+- 많은 결칙치들
+![결측치](https://github.com/user-attachments/assets/21c9f916-be1c-4c13-8f2c-3533c6e06977)
+
 
 [기본 환경 설정]
 [데이터 불러오기]
@@ -150,12 +157,13 @@ target encoding :
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+- ![image](https://github.com/user-attachments/assets/be7cb81a-39f5-41e3-8349-a7352aa4674b)
+
+- RMSE 31769.3940
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- [발표 자료](https://docs.google.com/presentation/d/1txWIZLI-OGXhYKjVYKIvYTPcXxFFYP8uN2e7c6fmQtE/edit?usp=sharing)
 
 ## etc
 
@@ -165,4 +173,6 @@ target encoding :
 
 ### Reference
 
-- _Insert related reference_
+- [(공유)도메인 지식을 기반으로 Geo 정보를 활용하는 방법](https://stages.ai/en/competitions/340/board/community/post/2842)
+- [패스트캠퍼스 Upstage AI Lab 부트캠프 4기 아파트 가격예측 경진대회 후기](https://blog.naver.com/sejin_kwon/223590697466)
+- [[업스테이지AILab 4기] 머신러닝, 부동산 가격 예측대회 회고](https://velog.io/@bzwear/%EC%97%85%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80AILab-4%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%EB%8C%80%ED%9A%8C-%ED%9A%8C%EA%B3%A0)
