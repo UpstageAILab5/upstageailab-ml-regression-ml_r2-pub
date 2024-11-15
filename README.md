@@ -140,7 +140,8 @@ target encoding :
   - Early Stopping을 지원하여 최적의 성능을 찾아줌 
 
 ### Modeling Process
-- _Write model train and test process with capture_
+- <img width="1143" alt="스크린샷 2024-11-15 오후 2 17 53" src="https://github.com/user-attachments/assets/04348fd1-af83-49da-b423-0a6c168c0c32">
+
 
 
 ## 5. Result
