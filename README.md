@@ -91,7 +91,7 @@
 
 ### Data Processing
 
-- [변수 보간]
+[변수 보간]
 
 - train data 처리
   - train_dt2, test_dt2 생성 (is_test 컬럼 추가)
@@ -124,7 +124,7 @@
 - target encoding : '전용면적', '브랜드 등급'
   
 [함수변환]
-- 최초 로그 변환 적용
+- 타겟 값과 수치 range가 큰 변수들은 log 변환 적용
 
 
 ## 4. Modeling
