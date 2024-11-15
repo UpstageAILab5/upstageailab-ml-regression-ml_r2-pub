@@ -135,12 +135,13 @@ target encoding :
 ## 4. Modeling
 
 ### Model descrition
-
 - LightGBM
+  - 대규모 데이터를 빠르게 학습, 메모리 효율, 성능 면에서도 우수
+  - Early Stopping을 지원하여 최적의 성능을 찾아줌 
 
 ### Modeling Process
-
 - _Write model train and test process with capture_
+
 
 ## 5. Result
 
