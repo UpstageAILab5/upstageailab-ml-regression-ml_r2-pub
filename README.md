@@ -72,14 +72,9 @@
 - 많은 결칙치들
 ![결측치](https://github.com/user-attachments/assets/21c9f916-be1c-4c13-8f2c-3533c6e06977)
 
+### EDA
 
-[기본 환경 설정]
-[데이터 불러오기]
-[Train/Test 구분 및 합치기]
-dt_concat
-[dt_concat 기본 전처리]
-
-컬럼이름 변경 또는 변수 분할
+- 컬럼이름 변경 또는 변수 분할
 컬럼 이름 변경
 변수 분할
 계약년월 split : 계약년, 계약월
@@ -99,7 +94,9 @@ continuous/categorical 변수 구분 [드랍 피쳐 결정]
 건축년도: new, mid, old, vold
 [상관관계 화인]
 
-[변수 보간]
+### Data Processing
+
+- [변수 보간]
 
 train data 처리
 train_dt2, test_dt2 생성 (is_test 컬럼 추가)
@@ -135,19 +132,11 @@ target encoding :
 로그변환
 제곱근변환
 
-### EDA
-
-- _Describe your EDA process and step-by-step conclusion_
-
-### Data Processing
-
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
-
 ## 4. Modeling
 
 ### Model descrition
 
-- _Write model information and why your select this model_
+- LightGBM
 
 ### Modeling Process
 
