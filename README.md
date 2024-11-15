@@ -4,7 +4,7 @@
 
 | ![최진호](https://avatars.githubusercontent.com/u/40931237?s=88&v=4) | ![김남섭](https://avatars.githubusercontent.com/u/178737930?s=88&v=4) | ![김현진](https://avatars.githubusercontent.com/u/180828922?s=88&v=4) | ![박지은](https://avatars.githubusercontent.com/u/182731776?s=88&v=4) | ![송주은](https://avatars.githubusercontent.com/u/182833254?s=88&v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [최진호](https://github.com/lojino)             |            [김남섭](https://github.com/PotatoKim1)             |            [김현진](https://github.com/jinibizsite)             |            [박지은](https://github.com/FULLMOOONBY)             |            [오패캠](https://github.com/jsonghcbiz)             |
+|            [최진호](https://github.com/lojino)             |            [김남섭](https://github.com/PotatoKim1)             |            [김현진](https://github.com/jinibizsite)             |            [박지은](https://github.com/FULLMOOONBY)             |            [송주은](https://github.com/jsonghcbiz)             |
 |                            팀장, 모델 선택 학습 및 평가                             |                            자료 수집                             |                            데이터 처리 , 모델 학습                             |                            데이터분석                             |                            데이터 분석 및 전처리                             |
 
 ## 0. Overview
