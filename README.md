@@ -18,34 +18,47 @@
 
 ### Overview
 
-- _Write competition information_
+- 2007년 1월부터 2023년 6월 데이터를 기반으로  2023년 7월부터   
+  9월까지의 서울 아프트 실거래 가격을 예측하기위해 결측치와   
+  이상치들을 다뤄봄으로써 전체적인 프로세스를 경험합니다.
+- 높은 점수보단 개인 학습을 목표로 전처리부터 각자 한 번씩 
+  실행해보면서 이해도를 높히는 쪽으로 방향을 잡았습니다.
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- November 04, 2024 - Start Date
+- November 14, 2024 - Final submission deadline
 
 ## 2. Components
 
 ### Directory
 
-- _Insert your directory structure_
-
-e.g.
-```
-├── code
-│   ├── jupyter_notebooks
-│   │   └── model_train.ipynb
-│   └── train.py
-├── docs
-│   ├── pdf
-│   │   └── (Template) [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
-└── input
-    └── data
-        ├── eval
-        └── train
-```
+├── submit
+│   ├── apartment_transaction_price_prediction.ipynb
+│   │   
+├── dev.jinhochoi
+│   ├── apartment_transaction_price_prediction copy.ipynb
+│   ├── balltree_haversine.ipynb
+│   ├── balltree_haversion.csv
+│   ├── unique_YX_poi.csv
+│   └── unique_address.csv
+├── jesong719
+│   ├── data_pp_f.ipynb
+│   ├── data_전처리_공유.ipynb
+│   ├── kapt_crawl_step1.py
+│   ├── kapt_crawl_step2.py
+│   └── train_gis_merge.zip
+├── jini.fullmoon
+│   ├── baseline_code(현진님).ipynb
+│   └── interestrate.csv
+├── jinibizsite
+│   ├── baseline_code_EDA.ipynb
+│   ├── baseline_code.ipynb
+│   ├── addressFinal.ipynb
+│   ├── addrBusSubway.ipynb
+│   └── XY버스지하철.zip
+└── run5793
+    └── test.txt
 
 ## 3. Data descrption
 
