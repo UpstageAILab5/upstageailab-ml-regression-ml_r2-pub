@@ -32,10 +32,9 @@
 ## 2. Components
 
 ### Directory
-
-├── submit
-│   ├── apartment_transaction_price_prediction.ipynb
-│   │   
+```
+├── submit
+│   └── apartment_transaction_price_prediction.ipynb  
 ├── dev.jinhochoi
 │   ├── apartment_transaction_price_prediction copy.ipynb
 │   ├── balltree_haversine.ipynb
@@ -59,6 +58,7 @@
 │   └── XY버스지하철.zip
 └── run5793
     └── test.txt
+```
 
 ## 3. Data descrption
 
